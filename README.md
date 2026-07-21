@@ -4,8 +4,8 @@
 
 <img width="678" height="316" alt="Screenshot 2026-07-21 at 6 26 36 PM" src="https://github.com/user-attachments/assets/25be238e-7ec9-4984-beb6-d2d7b53e0468" />
 
+<img width="993" height="466" alt="Screenshot 2026-07-21 at 6 42 40 PM" src="https://github.com/user-attachments/assets/895440cd-e0c0-4916-aa10-9af58e675186" />
 
-<img width="8000" height="3750" alt="Dressup Game love -06" src="https://github.com/user-attachments/assets/052c87c1-1e18-4713-b72e-d8cf007696bc" />
 
 
 

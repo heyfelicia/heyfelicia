@@ -1,2 +1,2 @@
-<img width="6000" height="3750" alt="Dressup Game  Recovered -02" src="https://github.com/user-attachments/assets/9a9aa9e7-3a1a-4672-b31b-2caa05519c4f" />
+<img width="993" height="619" alt="Screenshot 2026-07-20 at 11 19 14 PM" src="https://github.com/user-attachments/assets/a469697b-9a27-4c95-8d20-fecd07494dd9" />
 

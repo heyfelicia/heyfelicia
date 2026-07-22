@@ -1,4 +1,4 @@
-<img width="6000" height="3750" alt="my game" src="https://github.com/user-attachments/assets/ff71c773-7294-40a9-92f3-a4130cd10b89" />
+<img width="1159" height="721" alt="Screenshot 2026-07-21 at 9 00 08 PM" src="https://github.com/user-attachments/assets/9e6f843a-0af8-42bb-8160-1b781bd0ba1e" />
 
 <img width="1053" height="687" alt="Screenshot 2026-07-21 at 6 24 10 PM" src="https://github.com/user-attachments/assets/bf8d66a3-e926-46f1-a9ef-05605054cfca" />
 

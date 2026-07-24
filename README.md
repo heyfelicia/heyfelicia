@@ -1,4 +1,4 @@
-<img width="8000" height="13536" alt="Dressup Game love -04" src="https://github.com/user-attachments/assets/82eb3e7c-566e-4409-aebb-ef6a4cdd95bc" />
+<img width="10667" height="18048" alt="Dressup Game love -04" src="https://github.com/user-attachments/assets/c2ee2b71-a612-4786-bdcf-0133fd1f07e9" />
 
 <img width="8000" height="3750" alt="Muses Page" src="https://github.com/user-attachments/assets/33adbb7e-a6ed-44a0-8766-fc6492224d25" />
 

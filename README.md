@@ -1,6 +1,6 @@
 Coming Soon 🌩️
 
-<img width="4500" height="4500" alt="Amorous-02" src="https://github.com/user-attachments/assets/d6bc4849-efa4-4d1b-b651-9038bfbfcd78" />
+<img width="4500" height="4500" alt="Amorous" src="https://github.com/user-attachments/assets/cc553887-0519-4239-8c67-47530f4c1190" />
 
 <img width="4500" height="4500" alt="Kawaii Web Development Workshop-03" src="https://github.com/user-attachments/assets/4bf0df15-f956-4e1b-8915-43922f595b0e" />
 

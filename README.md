@@ -1,7 +1,5 @@
 Coming Soon 🌩️
 
-<img width="4500" height="4500" alt="Amorous" src="https://github.com/user-attachments/assets/e83ebbb8-29e7-4689-a229-a466d73e2f7a" />
-
 <img width="4500" height="4500" alt="Kawaii Web Development Workshop-03" src="https://github.com/user-attachments/assets/4bf0df15-f956-4e1b-8915-43922f595b0e" />
 
 <img width="10667" height="18048" alt="Dressup Game love " src="https://github.com/user-attachments/assets/39dce388-a14d-4d59-86aa-d8a2668169db" />

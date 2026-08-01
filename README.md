@@ -1,5 +1,7 @@
 Coming Soon 🌩️
 
+<img width="1494" height="761" alt="Screenshot 2026-07-31 at 9 45 40 PM" src="https://github.com/user-attachments/assets/f66d091a-2268-46f7-8a07-4d47218adfa3" />
+
 <img width="4500" height="4500" alt="mmmm" src="https://github.com/user-attachments/assets/7d72e299-3672-4504-bf41-5c6a286f5212" />
 
 <img width="4500" height="4500" alt="Kawaii Web Development Workshop-03" src="https://github.com/user-attachments/assets/4bf0df15-f956-4e1b-8915-43922f595b0e" />

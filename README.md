@@ -1,5 +1,6 @@
 Coming Soon 🌩️
-<img width="816" height="765" alt="Screenshot 2026-08-01 at 3 47 11 AM" src="https://github.com/user-attachments/assets/25d117c0-4411-455d-afb6-5549b3932442" />
+<img width="816" height="765" alt="Screenshot 2026-08-01 at 3 47 11 AM" src="https://github.com/user-attachments/assets/455aa19a-395b-4884-a0d0-c2584ec448d0" />
+
 
 <img width="4500" height="4500" alt="mmmm" src="https://github.com/user-attachments/assets/7d72e299-3672-4504-bf41-5c6a286f5212" />
 

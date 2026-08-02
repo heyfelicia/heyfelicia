@@ -10,7 +10,8 @@ Designing editorial-inspired digital experiences through design, illustration, a
 https://heyfelicia.github.io/portfolio/
 
 <a href="https://heyfelicia.github.io/portfolio/">
-  <img width="1000" alt="Portfolio Preview" src="https://github.com/user-attachments/assets/1d9b7dc7-df68-4ecb-88d6-00c0a059cc3e">
+ <img width="1488" height="761" alt="Screenshot 2026-08-02 at 1 18 29 AM" src="https://github.com/user-attachments/assets/4fa3ef92-9509-4d00-85c3-6ab1359159fb" />
+
 </a>
 
 </div>

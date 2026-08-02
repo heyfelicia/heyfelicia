@@ -1,6 +1,7 @@
 Coming Soon 🌩️
 
-<img width="951" height="755" alt="Screenshot 2026-08-01 at 3 48 43 AM" src="https://github.com/user-attachments/assets/7a5bba50-f6d4-4f7d-9422-7d9df364c32a" />
+< a href="https://heyfelicia.github.io/portfolio/index.html"><img width="1510" height="767" alt="Screenshot 2026-08-01 at 7 02 21 PM" src="https://github.com/user-attachments/assets/a2426026-dc87-4241-b3ae-7bcd9d8079bd" /></a>
+
 
 <img width="4500" height="4500" alt="mmmm" src="https://github.com/user-attachments/assets/7d72e299-3672-4504-bf41-5c6a286f5212" />
 

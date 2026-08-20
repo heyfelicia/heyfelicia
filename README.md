@@ -6,7 +6,7 @@
 
 Designing editorial-inspired digital experiences through design, illustration, and code.
 
-<img width="1496" height="764" alt="Screenshot 2026-08-20 at 3 11 24 AM" src="https://github.com/user-attachments/assets/24d5814b-bf69-41b6-a04c-8c28046afd4d" />
+<img width="1490" height="759" alt="Screenshot 2026-08-20 at 1 37 06 PM" src="https://github.com/user-attachments/assets/68cf22b6-8e29-44f7-91e8-907d3cd4d7b5" />
 
 
 </div>

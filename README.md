@@ -4,7 +4,8 @@
 
 ### Graphic Designer  Front-End Developer  Illustrator
 
-<img width="4758" height="4500" alt="Amorous" src="https://github.com/user-attachments/assets/cf65a649-be89-419f-ad1f-2a57f71fdabd" />
+<img width="4758" height="4500" alt="Amorous" src="https://github.com/user-attachments/assets/26497bb1-7e16-4efd-b99a-d6c37e3ee2cf" />
+
 
 <img width="1448" height="737" alt="Screenshot 2026-08-23 at 9 42 54 PM" src="https://github.com/user-attachments/assets/dac53c75-c001-4850-919e-62bae2200876" />
 

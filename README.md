@@ -4,7 +4,11 @@
 
 ### Graphic Designer  Front-End Developer  Illustrator
 
-<img width="4758" height="4500" alt="Amorous" src="https://github.com/user-attachments/assets/26497bb1-7e16-4efd-b99a-d6c37e3ee2cf" />
+<img width="7500" height="7500" alt="Butterfly" src="https://github.com/user-attachments/assets/dd21c144-bdb1-4d7c-8c82-d81e3af0baba" />
+
+
+<img width="7851" height="7433" alt="Amorous" src="https://github.com/user-attachments/assets/64571044-8681-40f9-8751-5c42bd4b192f" />
+
 
 
 <img width="1448" height="737" alt="Screenshot 2026-08-23 at 9 42 54 PM" src="https://github.com/user-attachments/assets/dac53c75-c001-4850-919e-62bae2200876" />

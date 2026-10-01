@@ -6,8 +6,9 @@
 
 <img width="7500" height="7500" alt="Butterfly" src="https://github.com/user-attachments/assets/dd21c144-bdb1-4d7c-8c82-d81e3af0baba" />
 
-<img width="4014" height="3146" alt="Website" src="https://github.com/user-attachments/assets/37f0e1df-f9ae-4619-9a31-22272e803f8d" />
-<img width="4014" height="2778" alt="Background" src="https://github.com/user-attachments/assets/64a98cc8-d458-4c34-b4c3-d28b50d083fc" />
+<img width="2409" height="1838" alt="Website" src="https://github.com/user-attachments/assets/18a113f2-7627-43a2-80af-5624d3f358ef" />
+<img width="2409" height="1667" alt="Dress" src="https://github.com/user-attachments/assets/0f2a7770-ab53-4096-b615-6e28df31d804" />
+
 
 
 <img width="7851" height="7433" alt="Amorous" src="https://github.com/user-attachments/assets/64571044-8681-40f9-8751-5c42bd4b192f" />

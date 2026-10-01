@@ -6,7 +6,7 @@
 
 <img width="7500" height="7500" alt="Butterfly" src="https://github.com/user-attachments/assets/dd21c144-bdb1-4d7c-8c82-d81e3af0baba" />
 
-<img width="4014" height="2778" alt="Dress" src="https://github.com/user-attachments/assets/1d2ac75e-ebc8-40c7-b2c3-9511c12c8b14" />
+<img width="4014" height="2778" alt="Dress" src="https://github.com/user-attachments/assets/d27d2218-2cc8-4018-bdeb-4ddb048d5258" />
 
 
 <img width="7851" height="7433" alt="Amorous" src="https://github.com/user-attachments/assets/64571044-8681-40f9-8751-5c42bd4b192f" />
